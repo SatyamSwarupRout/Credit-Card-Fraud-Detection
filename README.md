@@ -93,7 +93,7 @@ See prediction results directly on the dashboard 📈
 ### **🛠 How to Run Locally**
 **1. Clone the repository**
 
-git clone https://github.com/SatyamSwarupRout/Credit_Card_Fraud_Detection.git
+git clone https://github.com/SatyamSwarupRout/Credit-Card-Fraud-Detection.git
 
 cd Credit_Card_Fraud_Detection
 

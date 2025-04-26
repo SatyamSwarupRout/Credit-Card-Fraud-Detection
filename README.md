@@ -2,7 +2,7 @@
 
 A machine learning project to detect fraudulent credit card transactions using classification models and Streamlit dashboard.
 
-# **🚀 **Live Dashboard**:
+# 🚀 **Live Dashboard**:
 
 Live Link: https://credit-card-fraud-detection-gv2aqma7q9ypgvrmspytb4.streamlit.app
 

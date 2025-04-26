@@ -43,7 +43,7 @@ The objective is to build an accurate fraud detection model that minimizes false
 
 ### **📊 Dataset Used**
 
-Source: Kaggle - Credit Card Fraud Detection
+Source: Kaggle - Credit Card Fraud Detection (https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 Contains anonymized features (V1–V28) obtained via PCA transformation.
 
